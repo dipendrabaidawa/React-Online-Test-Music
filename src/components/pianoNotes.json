@@ -1,0 +1,218 @@
+[        
+    {
+        "pitch": 48,
+        "idkwhattonamethis": 20,
+        "name": "C",
+        "sharp": false
+    },    
+    {
+        "pitch": 49,
+        "idkwhattonamethis": 20,
+        "name": "C#/Db",
+        "sharp": true
+    },    
+    {
+        "pitch": 50,
+        "idkwhattonamethis": 19,
+        "name": "D",
+        "sharp": false
+    },    
+    {
+        "pitch": 51,
+        "idkwhattonamethis": 19,
+        "name": "D#/Eb",
+        "sharp": true
+    },    
+    {
+        "pitch": 52,
+        "idkwhattonamethis": 18,
+        "name": "E",
+        "sharp": false
+    },    
+    {
+        "pitch": 53,
+        "idkwhattonamethis": 17,
+        "name": "F",
+        "sharp": false
+    },    
+    {
+        "pitch": 54,
+        "idkwhattonamethis": 17,
+        "name": "F#/Gb",
+        "sharp": true
+    },    
+    {
+        "pitch": 55,
+        "idkwhattonamethis": 16,
+        "name": "G",
+        "sharp": false
+    },    
+    {
+        "pitch": 56,
+        "idkwhattonamethis": 16,
+        "name": "G#/Ab",
+        "sharp": true
+    },    
+    {
+        "pitch": 57,
+        "idkwhattonamethis": 15,
+        "name": "A",
+        "sharp": false
+    },    
+    {
+        "pitch": 58,
+        "idkwhattonamethis": 15,
+        "name": "A#/Bb",
+        "sharp": true
+    },    
+    {
+        "pitch": 59,
+        "idkwhattonamethis": 14,
+        "name": "B",
+        "sharp": false
+    },    
+    {
+        "pitch": 60,
+        "idkwhattonamethis": 13,
+        "name": "C",
+        "sharp": false
+    },
+    {
+        "pitch": 61,
+        "idkwhattonamethis": 13,
+        "name": "C#/Db",
+        "sharp": true
+    },
+    {
+        "pitch": 62,
+        "idkwhattonamethis": 12,
+        "name": "D",
+        "sharp": false
+    },
+    {
+        "pitch": 63,
+        "idkwhattonamethis": 12,
+        "name": "D#/Eb",
+        "sharp": true
+    },
+    {
+        "pitch": 64,
+        "idkwhattonamethis": 11,
+        "name": "E",
+        "sharp": false
+    },
+    {
+        "pitch": 65,
+        "idkwhattonamethis": 10,
+        "name": "F",
+        "sharp": false
+    },
+    {
+        "pitch": 66,
+        "idkwhattonamethis": 10,
+        "name": "F#/Gb",
+        "sharp": true
+    },
+    {
+        "pitch": 67,
+        "idkwhattonamethis": 9,
+        "name": "G",
+        "sharp": false
+    },
+    {
+        "pitch": 68,
+        "idkwhattonamethis":9,
+        "name": "G#/Ab",
+        "sharp": true
+    },
+    {
+        "pitch": 69,
+        "idkwhattonamethis": 8,
+        "name": "A",
+        "sharp": false
+    },
+    {
+        "pitch": 70,
+        "idkwhattonamethis": 8,
+        "name": "A#/Bb",
+        "sharp": true
+    },
+    {
+        "pitch": 71,
+        "idkwhattonamethis": 7,
+        "name": "B",
+        "sharp": false
+    },
+    {
+        "pitch": 72,
+        "idkwhattonamethis": 6,
+        "name": "C",
+        "sharp": false
+    },
+    {
+        "pitch": 73,
+        "idkwhattonamethis": 6,
+        "name": "C#/Db",
+        "sharp": true
+    },
+    {
+        "pitch": 74,
+        "idkwhattonamethis": 5,
+        "name": "D",
+        "sharp": false
+    },
+    {
+        "pitch": 75,
+        "idkwhattonamethis": 5,
+        "name": "D#/Eb",
+        "sharp": true
+    },
+    {
+        "pitch": 76,
+        "idkwhattonamethis": 4,
+        "name": "E",
+        "sharp": false
+    },
+    {
+        "pitch": 77,
+        "idkwhattonamethis": 3,
+        "name": "F",
+        "sharp": false
+    },
+    {
+        "pitch": 78,
+        "idkwhattonamethis": 3,
+        "name": "F#/Gb",
+        "sharp": true
+    },
+    {
+        "pitch": 79,
+        "idkwhattonamethis": 2,
+        "name": "G",
+        "sharp": false
+    },
+    {
+        "pitch": 80,
+        "idkwhattonamethis": 2,
+        "name": "G#/Ab",
+        "sharp": true
+    },
+    {
+        "pitch": 81,
+        "idkwhattonamethis": 1,
+        "name": "A",
+        "sharp": false
+    },   
+    {
+        "pitch": 82,
+        "idkwhattonamethis": 1,
+        "name": "A#/Bb",
+        "sharp": true
+    },    
+    {
+        "pitch": 83,
+        "idkwhattonamethis": 0,
+        "name": "B",
+        "sharp": false
+    } 
+]

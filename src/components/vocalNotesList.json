@@ -1,0 +1,371 @@
+[
+  {
+    "note": "♪",
+    "octave": "♫",
+    "freq": 1.0
+  },
+
+  {
+    "note": "C",
+    "octave": "2",
+    "freq": 65.406,
+    "midiId": 36
+  },
+  {
+    "note": "C#/Db",
+    "octave": "2",
+    "freq": 69.296,
+    "midiId": 37
+  },
+  {
+    "note": "D",
+    "octave": "2",
+    "freq": 73.416,
+    "midiId": 38
+  },
+  {
+    "note": "D#/Eb",
+    "octave": "2",
+    "freq": 77.782,
+    "midiId": 39
+  },
+  {
+    "note": "E",
+    "octave": "2",
+    "freq": 82.407,
+    "midiId": 40
+  },
+  {
+    "note": "F",
+    "octave": "2",
+    "freq": 87.307,
+    "midiId": 41
+  },
+  {
+    "note": "F#/Gb",
+    "octave": "2",
+    "freq": 92.499,
+    "midiId": 42
+  },
+  {
+    "note": "G",
+    "octave": "2",
+    "freq": 97.999,
+    "midiId": 43
+  },
+  {
+    "note": "G#/Ab",
+    "octave": "2",
+    "freq": 103.826,
+    "midiId": 44
+  },
+  {
+    "note": "A",
+    "octave": "2",
+    "freq": 110,
+    "midiId": 45
+  },
+  {
+    "note": "A#/Bb",
+    "octave": "2",
+    "freq": 116.541,
+    "midiId": 46
+  },
+  {
+    "note": "B",
+    "octave": "2",
+    "freq": 123.471,
+    "midiId": 47
+  },
+
+  {
+    "note": "C",
+    "octave": "3",
+    "freq": 130.813,
+    "midiId": 48
+  },
+  {
+    "note": "C#/Db",
+    "octave": "3",
+    "freq": 138.591,
+    "midiId": 49
+  },
+  {
+    "note": "D",
+    "octave": "3",
+    "freq": 146.832,
+    "midiId": 50
+  },
+  {
+    "note": "D#/Eb",
+    "octave": "3",
+    "freq": 155.563,
+    "midiId": 51
+  },
+  {
+    "note": "E",
+    "octave": "3",
+    "freq": 164.814,
+    "midiId": 52
+  },
+  {
+    "note": "F",
+    "octave": "3",
+    "freq": 174.614,
+    "midiId": 53
+  },
+  {
+    "note": "F#/Gb",
+    "octave": "3",
+    "freq": 184.997,
+    "midiId": 54
+  },
+  {
+    "note": "G",
+    "octave": "3",
+    "freq": 195.998,
+    "midiId": 55
+  },
+  {
+    "note": "G#/Ab",
+    "octave": "3",
+    "freq": 207.652,
+    "midiId": 56
+  },
+  {
+    "note": "A",
+    "octave": "3",
+    "freq": 220,
+    "midiId": 57
+  },
+  {
+    "note": "A#/Bb",
+    "octave": "3",
+    "freq": 233.082,
+    "midiId": 58
+  },
+  {
+    "note": "B",
+    "octave": "3",
+    "freq": 246.942,
+    "midiId": 59
+  },
+
+  {
+    "note": "C",
+    "octave": "4",
+    "freq": 261.6256,
+    "midiId": 60
+  },
+  {
+    "note": "C#/Db",
+    "octave": "4",
+    "freq": 277.183,
+    "midiId": 61
+  },
+  {
+    "note": "D",
+    "octave": "4",
+    "freq": 293.665,
+    "midiId": 62
+  },
+  {
+    "note": "D#/Eb",
+    "octave": "4",
+    "freq": 311.127,
+    "midiId": 63
+  },
+  {
+    "note": "E",
+    "octave": "4",
+    "freq": 329.6276,
+    "midiId": 64
+  },
+  {
+    "note": "F",
+    "octave": "4",
+    "freq": 349.228,
+    "midiId": 65
+  },
+  {
+    "note": "F#/Gb",
+    "octave": "4",
+    "freq": 369.994,
+    "midiId": 66
+  },
+  {
+    "note": "G",
+    "octave": "4",
+    "freq": 391.9954,
+    "midiId": 67
+  },
+  {
+    "note": "G#/Ab",
+    "octave": "4",
+    "freq": 415.305,
+    "midiId": 68
+  },
+  {
+    "note": "A",
+    "octave": "4",
+    "freq": 440,
+    "midiId": 69
+  },
+  {
+    "note": "A#/Bb",
+    "octave": "4",
+    "freq": 466.164,
+    "midiId": 70
+  },
+  {
+    "note": "B",
+    "octave": "4",
+    "freq": 493.883,
+    "midiId": 71
+  },
+
+  {
+    "note": "C",
+    "octave": "5",
+    "freq": 523.251,
+    "midiId": 72
+  },
+  {
+    "note": "C#/Db",
+    "octave": "5",
+    "freq": 554.365,
+    "midiId": 73
+  },
+  {
+    "note": "D",
+    "octave": "5",
+    "freq": 587.33,
+    "midiId": 74
+  },
+  {
+    "note": "D#/Eb",
+    "octave": "5",
+    "freq": 622.254,
+    "midiId": 75
+  },
+  {
+    "note": "E",
+    "octave": "5",
+    "freq": 659.255,
+    "midiId": 76
+  },
+  {
+    "note": "F",
+    "octave": "5",
+    "freq": 698.456,
+    "midiId": 77
+  },
+  {
+    "note": "F#/Gb",
+    "octave": "5",
+    "freq": 739.989,
+    "midiId": 78
+  },
+  {
+    "note": "G",
+    "octave": "5",
+    "freq": 783.991,
+    "midiId": 79
+  },
+  {
+    "note": "G#/Ab",
+    "octave": "5",
+    "freq": 830.609,
+    "midiId": 80
+  },
+  {
+    "note": "A",
+    "octave": "5",
+    "freq": 880,
+    "midiId": 81
+  },
+  {
+    "note": "A#/Bb",
+    "octave": "5",
+    "freq": 932.328,
+    "midiId": 82
+  },
+  {
+    "note": "B",
+    "octave": "5",
+    "freq": 987.767,
+    "midiId": 83
+  },
+  {
+    "note": "C",
+    "octave": "6",
+    "freq": 1046.502,
+    "midiId": 84
+  },
+  {
+    "note": "C#/Db",
+    "octave": "6",
+    "freq": 1108.731,
+    "midiId": 85
+  },
+  {
+    "note": "D",
+    "octave": "6",
+    "freq": 1174.659,
+    "midiId": 86
+  },
+  {
+    "note": "D#/Eb",
+    "octave": "6",
+    "freq": 1244.508,
+    "midiId": 87
+  },
+  {
+    "note": "E",
+    "octave": "6",
+    "freq": 1318.51,
+    "midiId": 88
+  },
+  {
+    "note": "F",
+    "octave": "6",
+    "freq": 1396.913,
+    "midiId": 89
+  },
+  {
+    "note": "F#/Gb",
+    "octave": "6",
+    "freq": 1479.978,
+    "midiId": 90
+  },
+  {
+    "note": "G",
+    "octave": "6",
+    "freq": 1567.982,
+    "midiId": 91
+  },
+  {
+    "note": "G#/Ab",
+    "octave": "6",
+    "freq": 1661.219,
+    "midiId": 92
+  },
+  {
+    "note": "A",
+    "octave": "6",
+    "freq": 1760,
+    "midiId": 93
+  },
+  {
+    "note": "A#/Bb",
+    "octave": "6",
+    "freq": 1864.655,
+    "midiId": 94
+  },
+  {
+    "note": "B",
+    "octave": "6",
+    "freq": 1975.533,
+    "midiId": 95
+  }
+]

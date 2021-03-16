@@ -1,0 +1,133 @@
+
+/* FONTS */
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('//db.onlinewebfonts.com/c/002b944b211d383987536f1ecf684bca?family=Herculanum');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Spartan&display=swap');
+
+
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	font-family: 'Lato', sans-serif;
+}
+
+.App {
+  text-align: center;
+  overflow: hidden;
+}
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+#root {
+	display: flex;
+}
+
+/* .menu-button{
+	margin-left: 2rem;
+	margin-top: -6rem;
+	top:0;
+	z-index: 4;
+	font-size: 2rem;
+	background: none;
+	color: #3ff;
+	position: -webkit-sticky;
+	position: sticky;
+	top: 3vh;
+	cursor: pointer;
+} */
+
+ /* .Home,
+.LessonOne,
+.LessonTwo,
+.LessonThree,
+.Profile {
+	display: flex;
+	height: 90vh;
+	align-items: center;
+	justify-content: center;
+	font-size: 3rem;
+}  */
+
+
+.SingBack {
+	display: flex;
+	height: 90vh;
+	align-items: center;
+	justify-content: center;
+	font-size: 3rem;
+}
+
+/* .sticky-nav{
+	display: unset;
+	position: -webkit-sticky;
+	position: sticky;
+	top:0;
+	z-index:1;
+}
+.menuButton{
+	z-index: 2;
+	margin-top: -25px;
+} */
+
+/*Component classes handle moving components to the right when button is pressed*/
+.component{
+	margin-left:0px;
+	transition: 500ms;
+}
+.component.active{
+	margin-left: 175px;
+	transition: 450ms;
+}
+
+.link{
+	color: #000;
+}
+
+.navbar-title{
+	font-family: 'Herculanum';
+	color: #f3e5ab;
+	font-size: 35px;
+	text-align: center;
+	
+}
+
+body{
+	background-image: linear-gradient(#100b10,#100b10);
+	width: 100%;
+	height: 100%;
+	padding-top: 80px;
+}
+html{
+	height: 100%;
+}
+
+audio {
+	background-color: #007bff;
+	border:  #007bff;    
+    width: 500px;
+}
+
+audio::-webkit-media-controls-panel{	
+	background: #007bff;	
+}
+
+audio::-webkit-media-controls-play-button {  
+	background-image: url(images/Review.svg);
+	width: 100px;
+	height:200px;
+	padding: 60px;
+	background-size: 58px 50px;
+  }
